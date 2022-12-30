@@ -1,0 +1,28 @@
+/* navigation section */
+#navbar{
+    flex-direction: column;
+}
+#navbar ul li a{
+    font-size: 0.9rem;;
+}
+/* home section */
+#home::before{
+    height: 480px;
+}
+
+/* services section */
+.services{
+    flex-direction: column;
+}
+
+/* client section */
+.client-item{
+    flex-wrap: wrap;
+}
+
+/* contact section */
+
+/* utility classes */
+.h-primary{
+    font-size: 1.5rem;;
+}
